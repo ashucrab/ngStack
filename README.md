@@ -1,0 +1,2 @@
+# ngStack
+stack angular application 
